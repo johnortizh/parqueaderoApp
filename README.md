@@ -16,3 +16,6 @@ Este proyecto implementa un sistema de parqueadero usando **Programación Orient
 - **Apache Maven**
 - **NetBeans IDE** 12+
 - **Git** / **GitHub** para control de versiones
+
+##  Diagrama de Clases
+![Diagrama de Clases](diagrama/Parqueader_UML.jpg)
